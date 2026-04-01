@@ -1,14 +1,13 @@
-
-/* Your CSS Code here. */
-.main{
-	background-color: purple;
-	width: 200px;
-	border-left: 6px solid green;
-	padding: 10px;
+.main {
+    width: 200px;
+    background: purple;
+    padding: 10px;
+    border-left: 6px solid green;
 }
-h1{
-	font-size: 18px;
-	margin: 0px;
-	color: white;
-	text-decoration: underline;
+
+.main h1 {
+    color: white;
+    text-decoration: underline;
+    font-size: 18px;
+    margin: 0;
 }
